@@ -56,9 +56,6 @@ const CategoriesList = [
   cellPhone,
   furniture,
   womenCloth,
-
-
-
 ];
 
 const CategoryImages = [
@@ -71,4 +68,24 @@ const CategoryImages = [
   imgFc7,
   imgFc8,
   imgFc9,
+];
+
+const itemDetailButtonsList = [
+  videos,
+  review,
+  sellerPolicy,
+  returnPolcy,
+  supportPolicy,
+];
+
+const profileButtonsList = [
+  oders,
+  wishlist,
+  mesages,
+];
+
+const profileButtonsIcon = [
+  icOrder,
+  icOrder,
+  icMessages,
 ];

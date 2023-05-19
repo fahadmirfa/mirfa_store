@@ -12,6 +12,7 @@ const password = "Password";
 const passwordHint = "********";
 const forgetpass = "Forget Password";
 const login = "Log in";
+const logout = "Log Out";
 const signup = "Sign up";
 const createNewAccount = " or, create a new account";
 const loginwith = "Log in with";
@@ -48,3 +49,12 @@ const mensClothFashion = "Men's Clothing & Fashion",
     jewellery = "Jewellery",
     cellPhone = "CellPhones & Tabs",
     furniture = "Furniture";
+
+const videos = "Videos",
+    review = "Reviews",
+    sellerPolicy = "Seller Policy",
+    supportPolicy = "Support Policy",
+    productYouMayLike = "Products you may also like",
+    returnPolcy = "Return Policy";
+
+const wishlist = "My Wishlist", oders = "My Oders", mesages = "Messages";
